@@ -32,16 +32,16 @@ const PropertyDetail = () => {
   // Data unit rumah yang ditampilkan
   const propertyUnits = [
     {
-      type: "Tipe 45/78",
+      type: "Tipe 55/78",
       buildingSize: "45 m²",
       landSize: "78 m²",
       bedrooms: 2,
-      bathrooms: 1,
+      bathrooms: 2,
       carport: 1,
       price: "Rp 600.000.000",
       priceInstallment: "Mulai dari Rp 4.2 juta/bulan",
-      image: "/kavling1.jpg",
-      features: ["Ruang tamu", "2 Kamar tidur", "1 Kamar mandi", "Dapur", "Teras", "Carport"],
+      image: "/tipe55.jpg",
+      features: ["Ruang tamu", "2 Kamar tidur", "2 Kamar mandi", "Dapur", "Teras", "Carport"],
       available: 22,
       description: "Rumah dengan ruang yang luas, dilengkapi teras depan yang nyaman untuk bersantai.",
       freeFurniture: [

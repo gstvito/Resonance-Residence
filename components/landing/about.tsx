@@ -18,7 +18,7 @@ export default function About() {
       >
         <div className="relative w-[90%] md:w-[500px] h-64 md:h-96 rounded-xl shadow-xl overflow-hidden">
           <Image
-            src="/kavling1.jpg" // Ganti dengan path gambar Anda
+            src="/baru.jpg" // Ganti dengan path gambar Anda
             alt="Kavling Resonance"
             layout="fill"
             objectFit="cover"

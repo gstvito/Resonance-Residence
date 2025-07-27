@@ -27,7 +27,7 @@ const PreviewSection = () => {
       id: 2,
       title: "Properti Kami",
       description: "Temukan berbagai pilihan unit rumah dengan tipe dan harga yang sesuai dengan kebutuhan dan budget keluarga Anda.",
-      image: "/tipe2.png",
+      image: "/Tipe2.png",
       icon: FaHome,
       link: "/properti",
       color: "bg-green-500",

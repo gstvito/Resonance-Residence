@@ -38,7 +38,7 @@ const Hero = () => {
               Lebih Lanjut →
             </motion.button>
           </Link>
-          <a href="/Brosur_Penawaran.pdf" download="Brosur_Penawaran.pdf">
+          <a href="Brosur_Penawaran_2025.pdf" download="Brosur_Penawaran_2025.pdf">
             <motion.button
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
