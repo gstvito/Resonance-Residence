@@ -32,7 +32,7 @@ const PreviewSection = () => {
       link: "/properti",
       color: "bg-green-500",
       features: [
-        "Tipe 45/78.5 & 60/90",
+        "Tipe 55/78.5 & 72/90",
         "Harga mulai 600 jutaan",
         "Free furniture lengkap",
         "SHM & legalitas lengkap"

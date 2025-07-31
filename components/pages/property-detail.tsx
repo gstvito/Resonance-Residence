@@ -33,7 +33,7 @@ const PropertyDetail = () => {
   const propertyUnits = [
     {
       type: "Tipe 55/78",
-      buildingSize: "45 m²",
+      buildingSize: "55 m²",
       landSize: "78 m²",
       bedrooms: 2,
       bathrooms: 2,
@@ -62,8 +62,8 @@ const PropertyDetail = () => {
       ]
     },
     {
-      type: "Tipe 60/90",
-      buildingSize: "60 m²",
+      type: "Tipe 72/90",
+      buildingSize: "72 m²",
       landSize: "90 m²",
       bedrooms: 2,
       bathrooms: 1,
@@ -267,7 +267,7 @@ const PropertyDetail = () => {
                       </div>
                       
                       <a 
-                        href="/Detail_Harga_Rumah_2025.pdf" 
+                        href="/Detail_Harga_2025.pdf" 
                         download
                         className="w-full bg-[#89AC46] text-white py-2 px-4 rounded-lg font-semibold hover:bg-[#6B8936] transition-colors duration-300 flex items-center justify-center text-decoration-none"
                       >
@@ -300,7 +300,7 @@ const PropertyDetail = () => {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <a
-                  href="/Detail_Harga_Rumah_2025.pdf"
+                  href="/Detail_Harga_2025.pdf"
                   download
                   className="inline-flex items-center bg-white text-[#89AC46] px-8 py-4 rounded-full font-semibold shadow-lg hover:bg-gray-100 hover:shadow-xl transform hover:scale-105 transition-all duration-300"
                 >
